@@ -7,7 +7,7 @@ Building intelligent systems — from legal agents to market valuation platforms
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sigvardbratlie/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sigvardbratlie)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sigvardbratlie@gmail.com) <!-- legg til din email hvis du vil -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sigvardbratlie@gmail.com)
 
 </div>
 
@@ -63,10 +63,3 @@ Conversational AI platform for real estate and vehicle valuations using LLM agen
 
 ---
 
-<div align="center">
-
-Made with ❤️ and a lot of prompt engineering
-
-Last updated: February 2026
-
-</div>

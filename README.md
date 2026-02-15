@@ -1,4 +1,4 @@
-# Sigvard Bratlie
+# Sigvard Bratlie TEST
 
 **Data Scientist & AI Engineer**  
 Building intelligent systems — from legal agents to market valuation platforms

@@ -1,6 +1,4 @@
 
-<div align="center">
-
 # Sigvard Bratlie
 
 **Data Scientist & AI Engineer**  
@@ -10,7 +8,6 @@ Building intelligent systems — from legal agents to market valuation platforms
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sigvardbratlie)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sigvardbratlie@gmail.com)
 
-</div>
 
 ## About Me
 

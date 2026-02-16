@@ -2,7 +2,6 @@
 **Data Scientist**
 
 <img src="IMG_1150_crop_bw.png" alt="Sigvard Bratlie" width="180" style="border-radius:50%; display:block; margin:auto;">
-
 M.Sc. student in Data Science at NMBU with 4 years of project management experience in commercial real estate. Currently researching agentic AI for the legal sector. Background in construction engineering (NTNU) and hands-on experience building ML systems, data pipelines, and LLM-powered applications.
 
 ## Timeline

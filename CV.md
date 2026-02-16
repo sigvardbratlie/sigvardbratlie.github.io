@@ -1,21 +1,28 @@
 # Sigvard Bratlie
 **Data Scientist**
 
-Data Scientist passionate about solving real problems with data. I build end-to-end solutions—from concept to deployment—combining analytical skills with practical implementation.
-
-Researching agentic legal AI at Bahr AS for my master thesis, developing and iterating on compression techniques for large-scale legal document processing and long-term context handling.
-
 ## Timeline
 
 ### Data Science | NMBU
-**2024 - 2026**
+**Aug 2024 - Now **
 
-As a Master of Data Science student at NMBU, I merge my engineering background with machine learning and cloud computing. I actively apply these skills by building end-to-end machine learning and AI solutions.
+* Researching agentic legal AI at Bahr AS for my master thesis — building an LLM-powered agent for case summarization, structured fact extraction, RAG on Norwegian law, and real-time chat assistance. Developing compression techniques for large-scale legal document processing and long-term context handling.
+* Built a YOLO11 object detection model for Rumex identification in drone imagery. Also worked with CNNs, canny edge detection, and classical image processing techniques.
+* Built an interactive Streamlit dashboard analyzing Norwegian electricity production/consumption vs. historical weather data, with time-series decomposition, forecasting, and outlier detection.
+* Developed an end-to-end ETL pipeline scraping Finn.no, enriching with public registry data (Geonorge, Statens Vegvesen, Kartverket), and training pricing models with XGBoost/CatBoost/LightGBM on GCP.
+* Built SIBR Market — an AI valuation platform where users chat with LLM agents for real estate and vehicle valuations, deployed on Google Cloud Run.
+* Built an oil spill diffusion simulator with mesh-grid modeling and auto-generated MP4 visualizations.
+* Statistical theory (Bayesian/frequentist, MLE, multivariate distributions), optimization (gradient descent, Newton's method, KKT, simplex), deep learning, and algorithm design.
+
+### Project Manager | Newsec
+**Aug 2020 - Okt 2024**
 
 ### Project Manager | Newsec
 **2020 - 2024**
-
-Leading technical projects and due diligence processes. Managed client relationships across portfolio companies, optimized operational workflows through standardized processes, and concurrently earned a year of economic course credits at BI Norwegian Business School.
+* Managed multi-million NOK construction and tenant fit-out projects end-to-end, coordinating 20-30 stakeholders across consulting engineers, contractors, architects, clients, and municipal authorities.
+* Delivered projects for institutional property owners and international investors, handling both new developments and commercial tenant adaptations.
+* Led due diligence on property transactions, producing integrated technical, legal, and financial assessments under tight deal timelines.
+* Advised on site acquisitions, property disputes, and operational optimization across diverse commercial real estate portfolios.
 
 ### Engineering | NTNU
 **2017 - 2020**

@@ -4,7 +4,7 @@
 ## Timeline
 
 ### Data Science | NMBU
-** Aug 2024 - Now **
+**Aug 2024 - Now**
 
 * Researching agentic legal AI at Bahr AS for my master thesis — building an LLM-powered agent for case summarization, structured fact extraction, RAG on Norwegian law, and real-time chat assistance. Developing compression techniques for large-scale legal document processing and long-term context handling.
 * Built a YOLO11 object detection model for Rumex identification in drone imagery. Also worked with CNNs, canny edge detection, and classical image processing techniques.
@@ -15,35 +15,24 @@
 * Statistical theory (Bayesian/frequentist, MLE, multivariate distributions), optimization (gradient descent, Newton's method, KKT, simplex), deep learning, and algorithm design.
 
 ### Project Manager | Newsec
-**Aug 2020 - Okt 2024**
-
-### Project Manager | Newsec
-**2020 - 2024**
-* Managed multi-million NOK construction and tenant fit-out projects end-to-end, coordinating 20-30 stakeholders across consulting engineers, contractors, architects, clients, and municipal authorities. Portfolio included residential conversions (up to NOK 72M), commercial rehabilitations, and public space developments across central Oslo.
-* Delivered projects for institutional property owners and international investors — including OBOS, Pareto Securities, SBB Norden, and Selvaag — handling both new developments and commercial tenant adaptations.
+**Aug 2020 - Plt 2024**
+* Managed multi-million NOK construction and tenant fit-out projects end-to-end, coordinating 20-30 stakeholders across consulting engineers, contractors, architects, clients, and municipal authorities. Portfolio included residential conversions, commercial rehabilitations, and public space developments across central Oslo.
+* Delivered projects for institutional property owners and international investors — including OBOS, Pareto Securities, Clarkson Platou, SBB Norden, and Selvaag — handling both new developments and commercial tenant adaptations.
 * Led technical due diligence on property transactions across office, retail, industrial, and residential assets, producing integrated assessments for both buy-side and sell-side clients.
 * Managed full procurement cycles — tender processes, bid evaluations, contract negotiation, and administration under NS8407/NS8402 frameworks — including public sector procedures and regulatory applications.
 * Owned project financial reporting and ensured compliance with regulatory frameworks and sustainability standards including BREEAM.
-* Independently rezoned and repositioned a mixed-use property in Hamar from office/residential to 10 residential units, managing the full regulatory process before selling the project with building permits to Odin Gruppen AS.
 
 ### Engineering | NTNU
-**2017 - 2020**
+**Aug 2017 - Jun 2020**
+* B.Sc. in Structural Engineering with focus on construction management, structural design, and regulatory frameworks.
+* Completed a feasibility study for the redevelopment of Mustad Industrial Park as part of a real estate development course.
+* Bachelor thesis on replacing structural steel systems with timber — analyzing environmental impact, cost implications, and structural performance.
+* Foundation in project planning, contract management, and navigating building regulations and public approval processes.
 
-B.Sc. in Structural Engineering (2017–2020) with focus on systems design and project planning. Supplemented by work experience in project management and development with housing developer.
+### Other things worth mentioning
+* Independently rezoned and repositioned a mixed-use property in Hamar from office/residential to 10 residential units, managing the full regulatory process before selling the project with building permits to Odin Gruppen AS.
+* After quiting my full-time job to pursue studies, earlier clients approach me for projects, and I have been offering my expertise on a hourly basis during the studies as a part time job.
 
-## Education
-- **NMBU** (2024–2026)
-- **Handelshøyskolen BI** (2021–2022)
-- **Newsec** (2020–2024)
-- **NTNU** (2017–2020)
-- **Work & Travel | Germany** (2015–2017)
-- **Junior High School** (2012–2015)
-
-## Contact Info
-- **Phone:** +47 938 49 732
-- **Email:** sigvard.bratlie@gmail.com
-- **LinkedIn:** [linkedin.com/in/sigvardbratlie](https://www.linkedin.com/in/sigvardbratlie/)
-- **GitHub:** [github.com/sigvardbratlie](https://github.com/sigvardbratlie)
 
 ## Skills
 
@@ -86,3 +75,10 @@ B.Sc. in Structural Engineering (2017–2020) with focus on systems design and p
 - **[Rumex Detection Model](https://github.com/sigvardbratlie/rumex-detection)**: Computer vision model using YOLO.
 - **[Market Data ETL Project](https://github.com/sigvardbratlie/sibr-market-data-etl)**: Data fetching and scraping pipeline.
 - **[SIBR Market](https://github.com/sigvardbratlie/sibr-market)**: UI/LLM-based market interface.
+
+
+## Contact Info
+- **Phone:** +47 938 49 732
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sigvardbratlie/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sigvardbratlie)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sigvardbratlie@gmail.com)

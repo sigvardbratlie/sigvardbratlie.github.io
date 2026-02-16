@@ -1,10 +1,12 @@
 # Sigvard Bratlie
 **Data Scientist**
 
+M.Sc. student in Data Science at NMBU with 4 years of project management experience in commercial real estate. Currently researching agentic AI for the legal sector. Background in construction engineering (NTNU) and hands-on experience building ML systems, data pipelines, and LLM-powered applications.
+
 ## Timeline
 
 ### Data Science | NMBU
-**Aug 2024 - Now**
+**Aug 2024 - Present**
 
 * Researching agentic legal AI at Bahr AS for my master thesis — building an LLM-powered agent for case summarization, structured fact extraction, RAG on Norwegian law, and real-time chat assistance. Developing compression techniques for large-scale legal document processing and long-term context handling.
 * Built a YOLO11 object detection model for Rumex identification in drone imagery. Also worked with CNNs, canny edge detection, and classical image processing techniques.
@@ -12,10 +14,10 @@
 * Developed an end-to-end ETL pipeline scraping Finn.no, enriching with public registry data (Geonorge, Statens Vegvesen, Kartverket), and training pricing models with XGBoost/CatBoost/LightGBM on GCP.
 * Built SIBR Market — an AI valuation platform where users chat with LLM agents for real estate and vehicle valuations, deployed on Google Cloud Run.
 * Built an oil spill diffusion simulator with mesh-grid modeling and auto-generated MP4 visualizations.
-* Statistical theory (Bayesian/frequentist, MLE, multivariate distributions), optimization (gradient descent, Newton's method, KKT, simplex), deep learning, and algorithm design.
+* Coursework in statistical theory (Bayesian/frequentist, MLE, multivariate distributions), optimization (gradient descent, Newton's method, KKT, simplex), deep learning, and algorithm design.
 
 ### Project Manager | Newsec
-**Aug 2020 - Plt 2024**
+**Aug 2020 - Jul 2024**
 * Managed multi-million NOK construction and tenant fit-out projects end-to-end, coordinating 20-30 stakeholders across consulting engineers, contractors, architects, clients, and municipal authorities. Portfolio included residential conversions, commercial rehabilitations, and public space developments across central Oslo.
 * Delivered projects for institutional property owners and international investors — including OBOS, Pareto Securities, Clarkson Platou, SBB Norden, and Selvaag — handling both new developments and commercial tenant adaptations.
 * Led technical due diligence on property transactions across office, retail, industrial, and residential assets, producing integrated assessments for both buy-side and sell-side clients.
@@ -29,10 +31,10 @@
 * Bachelor thesis on replacing structural steel systems with timber — analyzing environmental impact, cost implications, and structural performance.
 * Foundation in project planning, contract management, and navigating building regulations and public approval processes.
 
-### Other things worth mentioning
+### Additional Experience
 * Independently rezoned and repositioned a mixed-use property in Hamar from office/residential to 10 residential units, managing the full regulatory process before selling the project with building permits to Odin Gruppen AS.
-* After quiting my full-time job to pursue studies, earlier clients approach me for projects, and I have been offering my expertise on a hourly basis during the studies as a part time job.
-
+* Continued taking on advisory and project management assignments from former clients on an hourly basis alongside studies.
+* Economics coursework at BI Norwegian Business School (2021-2022).
 
 ## Skills
 
@@ -75,7 +77,6 @@
 - **[Rumex Detection Model](https://github.com/sigvardbratlie/rumex-detection)**: Computer vision model using YOLO.
 - **[Market Data ETL Project](https://github.com/sigvardbratlie/sibr-market-data-etl)**: Data fetching and scraping pipeline.
 - **[SIBR Market](https://github.com/sigvardbratlie/sibr-market)**: UI/LLM-based market interface.
-
 
 ## Contact Info
 - **Phone:** +47 938 49 732

@@ -42,6 +42,14 @@ YOLO11-based object detection of dock weed (Rumex) in drone imagery for automate
 - **Tech stack**: Ultralytics YOLO11, Albumentations, Label Studio, Jupyter  
 - **GitHub**: [sigvardbratlie/rumex-detection](https://github.com/sigvardbratlie/rumex-detection)
 
+### 🛢️ Oil Spill Simulator
+Python-based mesh-grid simulation of oil spill spread over time, configurable via TOML files for testing detection and thickness estimation algorithms.
+
+- **Key features**: Time-stepped diffusion model, numerical stability checks, batch/single-run support, auto-generated MP4/PNG visualizations
+- **Outputs**: Animated videos, image sequences, logs – all saved in dated folders
+- **Tech stack**: Python 3.11–3.12, TOML config, Matplotlib/animation for viz (via requirements.txt)
+- **GitHub**: [sigvardbratlie/oil-spill-sim](https://github.com/sigvardbratlie/oil-spill-sim)
+
 ### 📈 Market Data ETL Pipeline
 End-to-end scraping & enrichment pipeline for Norwegian marketplace data (Finn.no).
 

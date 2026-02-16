@@ -1,24 +1,26 @@
-# Sigvard Bratlie
-**Data Scientist**
-
-<div align="center">
-  <img src="IMG_1150_crop_bw.png" alt="Sigvard Bratlie" width="180" style="border-radius:50%;">
+<div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
+  <img src="IMG_1150_crop_bw.png" alt="Sigvard Bratlie" width="180" style="border-radius:50%; flex-shrink:0;">
+  <div>
+    <h1>Sigvard Bratlie</h1>
+    <h3><strong>Data Scientist</strong></h3>
+    <p>Masterstudent i datavitenskap ved NMBU med 4 års erfaring som prosjektleder i næringseiendom.</p>
+  </div>
 </div>
 
-Masterstudent i datavitenskap ved NMBU med 4 års erfaring som prosjektleder i næringseiendom. Forsker for tiden på agentbasert AI for juridisk sektor. 
+
 
 ## 🕒 Tidslinje
 
 ### Data Science | NMBU
 **Aug 2024 - Nå**
 
-* Forsker på agentbasert juridisk AI hos Bahr AS i forbindelse med masteroppgaven — bygger en LLM-drevet agent for sakoppsummering, strukturert faktautvinning, RAG mot norsk lovverk og sanntids chat-assistanse. Utvikler kompresjonsteknikker for storskala dokumentprosessering og langtidskonteksthåndtering.
+* Forsker på kontekstbevaring i flertrinns LLM-samtaler for juridisk sakshåndtering hos Bahr AS i forbindelse med masteroppgaven — bygger en LangGraph-basert agent som opprettholder strukturert sakstilstand over lengre samtaler, med RAG mot norsk lovverk, automatisert dokumentanalyse og multi-LLM-støtte. Evaluerer om eksplisitt tilstandshåndtering forbedrer nøyaktighet sammenlignet med standard RAG etter hvert som samtalelengden øker.
 * Bygde en YOLO11-basert objektdeteksjonsmodell for identifisering av Rumex i dronebilder. Jobbet også med CNN-er, canny-kantdeteksjon og klassiske bildebehandlingsteknikker.
 * Bygde et interaktivt Streamlit-dashboard som analyserer norsk strømproduksjon/-forbruk mot historiske værdata, med tidsseriedekomponering, forecasting og outlier-deteksjon.
 * Utviklet en end-to-end ETL-pipeline som scraper Finn.no, beriker med offentlige registerdata (Geonorge, Statens Vegvesen, Kartverket) og trener prismodeller med XGBoost/CatBoost/LightGBM på GCP.
 * Bygde SIBR Market — en AI-drevet verdivurderingsplattform der brukere chatter med LLM-agenter for verdivurdering av bolig og bil, deployet på Google Cloud Run.
 * Bygde en oljesølsimulator med mesh-grid-modellering og auto-genererte MP4-visualiseringer.
-* Emner i statistisk teori (bayesiansk/frekventistisk, MLE, multivariate fordelinger), optimering (gradientnedstigning, Newtons metode, KKT, simpleksmetoden), dyplæring og algoritmedesign.
+* Statistisk teori (bayesiansk/frekventistisk, MLE, multivariate fordelinger), optimering (gradientnedstigning, Newtons metode, KKT, simpleksmetoden), dyplæring og algoritmedesign.
 
 ### Prosjektleder | Newsec
 **Aug 2020 - Jul 2024**
@@ -40,40 +42,44 @@ Masterstudent i datavitenskap ved NMBU med 4 års erfaring som prosjektleder i n
 * Har fortsatt å ta rådgivnings- og prosjektledelsesoppdrag fra tidligere kunder på timebasis ved siden av studiene.
 * Økonomifag ved Handelshøyskolen BI (2021-2022).
 
-## 🛠️  Ferdigheter
+## 🛠️ Ferdigheter
 
-### Maskinlæring
-- ANN (PyTorch & TensorFlow)
-- Transformers (HuggingFace)
-- ML (Scikit Learn, XGBoost, ++)
-- Agenter (Langchain/langgraph)
-- Datahåndtering (Pandas, NumPy, Spark)
-- Plotting (Matplotlib, Seaborn, Plotly)
-- Computer vision (OpenCV, YOLO)
-
-### Cloud Computing
-- GCP, Azure & AWS
-- Data warehouse (Big Query, Snowflake)
-- CI/CD-verktøy (Cloud Build, etc.)
-- Serverless computing (Cloud Run)
-- Docker
-- VM og Kubernetes
-- NoSQL DB (MongoDB, Firestore)
-- ++ (Secrets, IAM-håndtering, etc.)
-
-### Andre verktøy
-- FastAPI
-- Git
-- Building SDK
-- Streamlit
-- Dashboards (PowerBI, Looker)
-- Figma
-
-### Profesjonelle ferdigheter
-- Prosjektledelse
-- Kunderelasjoner
-- Forretningsforståelse
-- Rapportering og presentasjon
+<table border="0">
+  <tr>
+    <td valign="top"><strong>Maskinlæring</strong><br>
+      • ANN (PyTorch & TensorFlow)<br>
+      • Transformers (Hugging Face)<br>
+      • ML (Scikit-learn, XGBoost m.fl.)<br>
+      • Agenter (LangChain / LangGraph)<br>
+      • Datahåndtering (Pandas, NumPy, Spark)<br>
+      • Visualisering (Matplotlib, Seaborn, Plotly)<br>
+      • Computer Vision (OpenCV, YOLO)
+    </td>
+    <td valign="top"><strong>Cloud & DevOps</strong><br>
+      • GCP, Azure, AWS<br>
+      • Data warehouse (BigQuery, Snowflake)<br>
+      • CI/CD (Cloud Build m.fl.)<br>
+      • Serverless (Cloud Run)<br>
+      • Docker<br>
+      • Kubernetes & VM-er<br>
+      • NoSQL (MongoDB, Firestore)<br>
+      • IAM, Secrets, etc.
+    </td>
+    <td valign="top"><strong>Andre verktøy & Profesjonelt</strong><br>
+      • FastAPI<br>
+      • Git<br>
+      • Streamlit<br>
+      • Dashboards (Power BI, Looker)<br>
+      • Figma<br>
+      • Building SDK<br><br>
+      <strong>Profesjonelle ferdigheter</strong><br>
+      • Prosjektledelse<br>
+      • Kunderelasjoner<br>
+      • Forretningsforståelse<br>
+      • Rapportering & presentasjon
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Prosjekter
 - **[Agentic Legal AI (Masteroppgave)](https://github.com/sigvardbratlie/master-thesis)**: LLM/NLP-prosjekt for juridisk dokumentbehandling.

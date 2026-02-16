@@ -1,23 +1,24 @@
-# Sigvard Bratlie
-**Data Scientist**
-
-<div align="center">
-  <img src="IMG_1150_crop_bw.png" alt="Sigvard Bratlie" width="180" style="border-radius:50%;">
+<div style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
+  <img src="IMG_1150_crop_bw.png" alt="Sigvard Bratlie" width="180" style="border-radius:50%; flex-shrink:0;">
+  <div>
+    <h1>Sigvard Bratlie</h1>
+    <h3><strong>Data Scientist</strong></h3>
+    <p>M.Sc. student in Data Science at NMBU with 4 years of project management experience in commercial real estate. Currently researching agentic AI for the legal sector.</p>
+  </div>
 </div>
-M.Sc. student in Data Science at NMBU with 4 years of project management experience in commercial real estate. Currently researching agentic AI for the legal sector. 
 
 ## 🕒 Timeline
 
-### Data Science | NMBU
+### Data Science (M.sc.) | NMBU
 **Aug 2024 - Present**
 
-* Researching agentic legal AI at Bahr AS for my master thesis — building an LLM-powered agent for case summarization, structured fact extraction, RAG on Norwegian law, and real-time chat assistance. Developing compression techniques for large-scale legal document processing and long-term context handling.
+* Researching context preservation in multi-turn LLM conversations for legal case management at Bahr AS for my master thesis — building a LangGraph-based agent that maintains structured case state across extended conversations, with RAG on Norwegian law, automated document analysis, and multi-LLM support. Evaluating whether explicit state management improves accuracy over baseline RAG as conversation length increases.
 * Built a YOLO11 object detection model for Rumex identification in drone imagery. Also worked with CNNs, canny edge detection, and classical image processing techniques.
 * Built an interactive Streamlit dashboard analyzing Norwegian electricity production/consumption vs. historical weather data, with time-series decomposition, forecasting, and outlier detection.
 * Developed an end-to-end ETL pipeline scraping Finn.no, enriching with public registry data (Geonorge, Statens Vegvesen, Kartverket), and training pricing models with XGBoost/CatBoost/LightGBM on GCP.
 * Built SIBR Market — an AI valuation platform where users chat with LLM agents for real estate and vehicle valuations, deployed on Google Cloud Run.
 * Built an oil spill diffusion simulator with mesh-grid modeling and auto-generated MP4 visualizations.
-* Coursework in statistical theory (Bayesian/frequentist, MLE, multivariate distributions), optimization (gradient descent, Newton's method, KKT, simplex), deep learning, and algorithm design.
+* Statistical theory (Bayesian/frequentist, MLE, multivariate distributions), optimization (gradient descent, Newton's method, KKT, simplex), deep learning, and algorithm design.
 
 ### Project Manager | Newsec
 **Aug 2020 - Jul 2024**
@@ -27,7 +28,7 @@ M.Sc. student in Data Science at NMBU with 4 years of project management experie
 * Managed full procurement cycles — tender processes, bid evaluations, contract negotiation, and administration under NS8407/NS8402 frameworks — including public sector procedures and regulatory applications.
 * Owned project financial reporting and ensured compliance with regulatory frameworks and sustainability standards including BREEAM.
 
-### Engineering | NTNU
+### Engineering (B.sc.) | NTNU
 **Aug 2017 - Jun 2020**
 * B.Sc. in Structural Engineering with focus on construction management, structural design, and regulatory frameworks.
 * Completed a feasibility study for the redevelopment of Mustad Industrial Park as part of a real estate development course.
@@ -35,44 +36,45 @@ M.Sc. student in Data Science at NMBU with 4 years of project management experie
 * Foundation in project planning, contract management, and navigating building regulations and public approval processes.
 
 ### Additional Experience
-* Independently rezoned and repositioned a mixed-use property in Hamar from office/residential to 10 residential units, managing the full regulatory process before selling the project with building permits to Odin Gruppen AS.
 * Continued taking on advisory and project management assignments from former clients on an hourly basis alongside studies.
 * Economics coursework at BI Norwegian Business School (2021-2022).
 
 ## 🛠️ Skills
-
-### Machine Learning
-- ANN (PyTorch & TensorFlow)
-- Transformers (HuggingFace)
-- ML (Scikit Learn, XGBoost, ++)
-- Agents (Langchain/langgraph)
-- Data handling (Pandas, NumPy, Spark)
-- Plotting (Matplotlib, Seaborn, Plotly)
-- Computer vision (OpenCV, YOLO)
-
-### Cloud Computing
-- GCP, Azure & AWS
-- Data warehouse (Big Query, Snowflake)
-- CI/CD tools (Cloud Build, etc.)
-- Serverless computing (Cloud Run)
-- Docker
-- VM and Kubernetes
-- NoSQL DB (MongoDB, Firestore)
-- ++ (Secrets, IAM handling, etc.)
-
-### Other Tools/Skills
-- FastAPI
-- Git
-- Building SDK
-- Streamlit
-- Dashboards (PowerBI, Looker)
-- Figma
-
-### Professional Skills
-- Project Management
-- Client Relations
-- Business Acumen
-- Reporting & Presentation
+<table>
+  <tr>
+    <td><strong>Machine Learning</strong><br>
+    • ANN (PyTorch & TensorFlow)<br>
+    • Transformers (HuggingFace)<br>
+    • ML (Scikit Learn, XGBoost, ++)<br>
+    • Agents (Langchain/langgraph)<br>
+    • Data handling (Pandas, NumPy, Spark)<br>
+    • Plotting (Matplotlib, Seaborn, Plotly)<br>
+    • Computer vision (OpenCV, YOLO)
+    </td>
+    <td><strong>Cloud Computing</strong><br>
+    • GCP, Azure & AWS<br>
+    • Data warehouse (Big Query, Snowflake)<br>
+    • CI/CD tools (Cloud Build, etc.)<br>
+    • Serverless computing (Cloud Run)<br>
+    • Docker<br>
+    • VM and Kubernetes<br>
+    • NoSQL DB (MongoDB, Firestore)<br>
+    • ++ (Secrets, IAM handling, etc.)
+    </td>
+    <td><strong>Other Tools/Skills & Professional</strong><br>
+    • FastAPI<br>
+    • Git<br>
+    • Building SDK<br>
+    • Streamlit<br>
+    • Dashboards (PowerBI, Looker)<br>
+    • Figma<br><br>
+    • Project Management<br>
+    • Client Relations<br>
+    • Business Acumen<br>
+    • Reporting & Presentation
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Projects
 - **[Agentic Legal AI (Master Thesis)](https://github.com/sigvardbratlie/master-thesis)**: LLM/NLP project for legal document processing.

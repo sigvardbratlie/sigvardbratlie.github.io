@@ -1,11 +1,13 @@
 # Sigvard Bratlie
 **Data Scientist**
 
-<img src="IMG_1150_crop_bw.png" alt="Sigvard Bratlie" width="180" style="border-radius:50%; display:block; margin:auto;">
+<div align="center">
+  <img src="IMG_1150_crop_bw.png" alt="Sigvard Bratlie" width="180" style="border-radius:50%;">
+</div>
 
-Masterstudent i datavitenskap ved NMBU med 4 års erfaring som prosjektleder i næringseiendom. Forsker for tiden på agentbasert AI for juridisk sektor. Bakgrunn i konstruksjonsteknikk (NTNU) og praktisk erfaring med å bygge ML-systemer, datapipelines og LLM-drevne applikasjoner.
+Masterstudent i datavitenskap ved NMBU med 4 års erfaring som prosjektleder i næringseiendom. Forsker for tiden på agentbasert AI for juridisk sektor. 
 
-## Tidslinje
+## 🕒 Tidslinje
 
 ### Data Science | NMBU
 **Aug 2024 - Nå**
@@ -38,7 +40,7 @@ Masterstudent i datavitenskap ved NMBU med 4 års erfaring som prosjektleder i n
 * Har fortsatt å ta rådgivnings- og prosjektledelsesoppdrag fra tidligere kunder på timebasis ved siden av studiene.
 * Økonomifag ved Handelshøyskolen BI (2021-2022).
 
-## Ferdigheter
+## 🛠️  Ferdigheter
 
 ### Maskinlæring
 - ANN (PyTorch & TensorFlow)
@@ -73,13 +75,13 @@ Masterstudent i datavitenskap ved NMBU med 4 års erfaring som prosjektleder i n
 - Forretningsforståelse
 - Rapportering og presentasjon
 
-## Prosjekter
+## 🚀 Prosjekter
 - **[Agentic Legal AI (Masteroppgave)](https://github.com/sigvardbratlie/master-thesis)**: LLM/NLP-prosjekt for juridisk dokumentbehandling.
 - **[Vær- og strømdashboard](https://github.com/sigvardbratlie/ind320-dashboard)**: Dataanalyse- og EDA-dashboard.
 - **[Rumex-deteksjonsmodell](https://github.com/sigvardbratlie/rumex-detection)**: Computer vision-modell med YOLO.
 - **[Market Data ETL](https://github.com/sigvardbratlie/sibr-market-data-etl)**: Datahenting og scraping-pipeline.
 - **[SIBR Market](https://github.com/sigvardbratlie/sibr-market)**: UI/LLM-basert markedsplattform.
 
-## Kontaktinfo
+## 📞 Kontaktinfo
 **Mobil:** +47 938 49 732  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sigvardbratlie/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sigvardbratlie) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sigvardbratlie@gmail.com)

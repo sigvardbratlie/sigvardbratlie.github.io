@@ -1,10 +1,12 @@
 # Sigvard Bratlie
 **Data Scientist**
 
-<img src="IMG_1150_crop_bw.png" alt="Sigvard Bratlie" width="180" style="border-radius:50%; display:block; margin:auto;">
-M.Sc. student in Data Science at NMBU with 4 years of project management experience in commercial real estate. Currently researching agentic AI for the legal sector. Background in construction engineering (NTNU) and hands-on experience building ML systems, data pipelines, and LLM-powered applications.
+<div align="center">
+  <img src="IMG_1150_crop_bw.png" alt="Sigvard Bratlie" width="180" style="border-radius:50%;">
+</div>
+M.Sc. student in Data Science at NMBU with 4 years of project management experience in commercial real estate. Currently researching agentic AI for the legal sector. 
 
-## Timeline
+## 🕒 Timeline
 
 ### Data Science | NMBU
 **Aug 2024 - Present**
@@ -37,7 +39,7 @@ M.Sc. student in Data Science at NMBU with 4 years of project management experie
 * Continued taking on advisory and project management assignments from former clients on an hourly basis alongside studies.
 * Economics coursework at BI Norwegian Business School (2021-2022).
 
-## Skills
+## 🛠️ Skills
 
 ### Machine Learning
 - ANN (PyTorch & TensorFlow)
@@ -72,13 +74,13 @@ M.Sc. student in Data Science at NMBU with 4 years of project management experie
 - Business Acumen
 - Reporting & Presentation
 
-## Projects
+## 🚀 Projects
 - **[Agentic Legal AI (Master Thesis)](https://github.com/sigvardbratlie/master-thesis)**: LLM/NLP project for legal document processing.
 - **[Weather & Electricity Dashboard](https://github.com/sigvardbratlie/ind320-dashboard)**: Data analysis and EDA dashboard.
 - **[Rumex Detection Model](https://github.com/sigvardbratlie/rumex-detection)**: Computer vision model using YOLO.
 - **[Market Data ETL Project](https://github.com/sigvardbratlie/sibr-market-data-etl)**: Data fetching and scraping pipeline.
 - **[SIBR Market](https://github.com/sigvardbratlie/sibr-market)**: UI/LLM-based market interface.
 
-## Contact Info
+## 📞 Contact Info
 **Phone:** +47 938 49 732  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sigvardbratlie/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sigvardbratlie) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sigvardbratlie@gmail.com)

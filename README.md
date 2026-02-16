@@ -47,7 +47,7 @@ Python-based mesh-grid simulation of oil spill spread over time, configurable vi
 
 - **Key features**: Time-stepped diffusion model, numerical stability checks, batch/single-run support, auto-generated MP4/PNG visualizations
 - **Outputs**: Animated videos, image sequences, logs – all saved in dated folders
-- **Tech stack**: Python 3.11–3.12, TOML config, Matplotlib/animation for viz (via requirements.txt)
+- **Tech stack**: Python 3.11–3.12, Matplotlib, Opencv, Meshio
 - **GitHub**: [sigvardbratlie/oil-spill-sim](https://github.com/sigvardbratlie/oil-spill-sim)
 
 ### 📈 Market Data ETL Pipeline

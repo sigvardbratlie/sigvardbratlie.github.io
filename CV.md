@@ -4,7 +4,7 @@
 ## Timeline
 
 ### Data Science | NMBU
-**Aug 2024 - Now **
+** Aug 2024 - Now **
 
 * Researching agentic legal AI at Bahr AS for my master thesis — building an LLM-powered agent for case summarization, structured fact extraction, RAG on Norwegian law, and real-time chat assistance. Developing compression techniques for large-scale legal document processing and long-term context handling.
 * Built a YOLO11 object detection model for Rumex identification in drone imagery. Also worked with CNNs, canny edge detection, and classical image processing techniques.
@@ -19,10 +19,12 @@
 
 ### Project Manager | Newsec
 **2020 - 2024**
-* Managed multi-million NOK construction and tenant fit-out projects end-to-end, coordinating 20-30 stakeholders across consulting engineers, contractors, architects, clients, and municipal authorities.
-* Delivered projects for institutional property owners and international investors, handling both new developments and commercial tenant adaptations.
-* Led due diligence on property transactions, producing integrated technical, legal, and financial assessments under tight deal timelines.
-* Advised on site acquisitions, property disputes, and operational optimization across diverse commercial real estate portfolios.
+* Managed multi-million NOK construction and tenant fit-out projects end-to-end, coordinating 20-30 stakeholders across consulting engineers, contractors, architects, clients, and municipal authorities. Portfolio included residential conversions (up to NOK 72M), commercial rehabilitations, and public space developments across central Oslo.
+* Delivered projects for institutional property owners and international investors — including OBOS, Pareto Securities, SBB Norden, and Selvaag — handling both new developments and commercial tenant adaptations.
+* Led technical due diligence on property transactions across office, retail, industrial, and residential assets, producing integrated assessments for both buy-side and sell-side clients.
+* Managed full procurement cycles — tender processes, bid evaluations, contract negotiation, and administration under NS8407/NS8402 frameworks — including public sector procedures and regulatory applications.
+* Owned project financial reporting and ensured compliance with regulatory frameworks and sustainability standards including BREEAM.
+* Independently rezoned and repositioned a mixed-use property in Hamar from office/residential to 10 residential units, managing the full regulatory process before selling the project with building permits to Odin Gruppen AS.
 
 ### Engineering | NTNU
 **2017 - 2020**

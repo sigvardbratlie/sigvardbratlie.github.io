@@ -80,7 +80,5 @@ M.Sc. student in Data Science at NMBU with 4 years of project management experie
 - **[SIBR Market](https://github.com/sigvardbratlie/sibr-market)**: UI/LLM-based market interface.
 
 ## Contact Info
-- **Phone:** +47 938 49 732
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sigvardbratlie/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sigvardbratlie)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sigvardbratlie@gmail.com)
+**Phone:** +47 938 49 732  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sigvardbratlie/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sigvardbratlie) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sigvardbratlie@gmail.com)

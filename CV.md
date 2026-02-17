@@ -7,37 +7,39 @@
   </div>
 </div>
 
-## 🕒 Timeline
+## 🎓 Education
 
-### Data Science (M.sc.) | NMBU
-**Aug 2024 - Present**
-
-* Researching context preservation in multi-turn LLM conversations for legal case management at Bahr AS for my master thesis — building a LangGraph-based agent that maintains structured case state across extended conversations, with RAG on Norwegian law, automated document analysis, and multi-LLM support. Evaluating whether explicit state management improves accuracy over baseline RAG as conversation length increases.
-* Built a YOLO11 object detection model for Rumex identification in drone imagery. Also worked with CNNs, canny edge detection, and classical image processing techniques.
-* Built an interactive Streamlit dashboard analyzing Norwegian electricity production/consumption vs. historical weather data, with time-series decomposition, forecasting, and outlier detection.
-* Developed an end-to-end ETL pipeline scraping Finn.no, enriching with public registry data (Geonorge, Statens Vegvesen, Kartverket), and training pricing models with XGBoost/CatBoost/LightGBM on GCP.
-* Built SIBR Market — an AI valuation platform where users chat with LLM agents for real estate and vehicle valuations, deployed on Google Cloud Run.
+### Data Science (M.Sc.) | NMBU
+**Aug 2024 - Present (Expected June 2026)**
+* Researching context preservation in multi-turn LLM conversations for legal case management at Bahr AS for my master thesis — building an agent that maintains structured case state across extended conversations, with RAG on Norwegian law, automated document analysis, and multi-LLM support. Evaluating whether explicit state management improves accuracy over baseline models as conversation length increases.
+* Built a convolutional neural network (object detection model) for Rumex identification in drone imagery. Also worked with segmentation and classical image processing techniques.
+* Built an interactive dashboard web-page analyzing Norwegian electricity production/consumption vs. historical weather data, with time-series decomposition, forecasting, and outlier detection.
+* Developed an end-to-end ETL pipeline scraping Finn.no, enriching with public registry data (Geonorge, Statens Vegvesen, Kartverket), and training pricing models with several different types of models on GCP.
+* Built AI-valuation — an AI valuation platform where users chat with LLM agents for real estate and vehicle valuations, deployed on Google Cloud Run.
 * Built an oil spill diffusion simulator with mesh-grid modeling and auto-generated MP4 visualizations.
-* Statistical theory (Bayesian/frequentist, MLE, multivariate distributions), optimization (gradient descent, Newton's method, KKT, simplex), deep learning, and algorithm design.
+* Coursework includes statistical theory (Bayesian/frequentist, MLE, multivariate distributions), optimization (gradient descent, Newton's method, KKT, simplex), deep learning, and algorithm design.
 
-### Project Manager | Newsec
-**Aug 2020 - Jul 2024**
-* Managed multi-million NOK construction and tenant fit-out projects end-to-end, coordinating 20-30 stakeholders across consulting engineers, contractors, architects, clients, and municipal authorities. Portfolio included residential conversions, commercial rehabilitations, and public space developments across central Oslo.
-* Delivered projects for institutional property owners and international investors — including OBOS, Pareto Securities, Clarkson Platou, SBB Norden, and Selvaag — handling both new developments and commercial tenant adaptations.
-* Led technical due diligence on property transactions across office, retail, industrial, and residential assets, producing integrated assessments for both buy-side and sell-side clients.
-* Managed full procurement cycles — tender processes, bid evaluations, contract negotiation, and administration under NS8407/NS8402 frameworks — including public sector procedures and regulatory applications.
-* Owned project financial reporting and ensured compliance with regulatory frameworks and sustainability standards including BREEAM.
+### Economics & Business (Year Study) | BI Norwegian Business School
+**Aug 2021 – June 2022 (Completed parallel to full-time position at Newsec)**
+* Completed 60 ECTS credits with a focus on business economics, financial accounting, and marketing management.
 
-### Engineering (B.sc.) | NTNU
+### Engineering (B.Sc.) | NTNU
 **Aug 2017 - Jun 2020**
 * B.Sc. in Structural Engineering with focus on construction management, structural design, and regulatory frameworks.
-* Completed a feasibility study for the redevelopment of Mustad Industrial Park as part of a real estate development course.
-* Bachelor thesis on replacing structural steel systems with timber — analyzing environmental impact, cost implications, and structural performance.
 * Foundation in project planning, contract management, and navigating building regulations and public approval processes.
 
-### Additional Experience
-* Continued taking on advisory and project management assignments from former clients on an hourly basis alongside studies.
-* Economics coursework at BI Norwegian Business School (2021-2022).
+## 💼 EXPERIENCE
+### Project Manager | Newsec
+**Aug 2020 – Oct 2024**  
+* Led end-to-end multi-million NOK construction and tenant fit-out projects, coordinating 20–30 stakeholders (engineers, contractors, architects, clients, municipalities) across residential conversions, commercial rehabilitations, and public developments in central Oslo.  
+* Delivered projects for major institutional and international clients (OBOS, Pareto Securities, Clarksons Platou, SBB Norden, Selvaag), covering new builds and tenant adaptations.  
+* Conducted technical due diligence for office, retail, industrial, and residential transactions, delivering integrated buy- and sell-side assessments.  
+* Managed complete procurement cycles: tenders, bid evaluation, contract negotiation/administration, including public sector procedures and regulatory approvals.  
+
+### Project Manager | Independent Consultant
+**Oct 2024 - Present(Parallel to full-time master studies)**
+* Providing technical advisory and project management for property development projects upon direct request from former clients and partners.
+* Focusing on project execution and technical management, transitioning from previous full-time roles into targeted consultancy.
 
 ## 🛠️ Skills
 <table>
@@ -64,7 +66,6 @@
     <td><strong>Other Tools/Skills & Professional</strong><br>
     • FastAPI<br>
     • Git<br>
-    • Building SDK<br>
     • Streamlit<br>
     • Dashboards (PowerBI, Looker)<br>
     • Figma<br><br>
@@ -75,13 +76,6 @@
     </td>
   </tr>
 </table>
-
-## 🚀 Projects
-- **[Agentic Legal AI (Master Thesis)](https://github.com/sigvardbratlie/master-thesis)**: LLM/NLP project for legal document processing.
-- **[Weather & Electricity Dashboard](https://github.com/sigvardbratlie/ind320-dashboard)**: Data analysis and EDA dashboard.
-- **[Rumex Detection Model](https://github.com/sigvardbratlie/rumex-detection)**: Computer vision model using YOLO.
-- **[Market Data ETL Project](https://github.com/sigvardbratlie/sibr-market-data-etl)**: Data fetching and scraping pipeline.
-- **[SIBR Market](https://github.com/sigvardbratlie/sibr-market)**: UI/LLM-based market interface.
 
 ## 📞 Contact Info
 **Phone:** +47 938 49 732  

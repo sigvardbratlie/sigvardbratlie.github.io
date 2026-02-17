@@ -8,42 +8,42 @@
 </div>
 
 
-
-## 🕒 Tidslinje
+## 🎓 UTDANNING
 
 ### Data Science | NMBU
 **Aug 2024 - Nå**
-
-* Forsker på kontekstbevaring i flertrinns LLM-samtaler for juridisk sakshåndtering hos Bahr AS i forbindelse med masteroppgaven — bygger en LangGraph-basert agent som opprettholder strukturert sakstilstand over lengre samtaler, med RAG mot norsk lovverk, automatisert dokumentanalyse og multi-LLM-støtte. Evaluerer om eksplisitt tilstandshåndtering forbedrer nøyaktighet sammenlignet med standard RAG etter hvert som samtalelengden øker.
-* Bygde en YOLO11-basert objektdeteksjonsmodell for identifisering av Rumex i dronebilder. Jobbet også med CNN-er, canny-kantdeteksjon og klassiske bildebehandlingsteknikker.
-* Bygde et interaktivt Streamlit-dashboard som analyserer norsk strømproduksjon/-forbruk mot historiske værdata, med tidsseriedekomponering, forecasting og outlier-deteksjon.
-* Utviklet en end-to-end ETL-pipeline som scraper Finn.no, beriker med offentlige registerdata (Geonorge, Statens Vegvesen, Kartverket) og trener prismodeller med XGBoost/CatBoost/LightGBM på GCP.
-* Bygde SIBR Market — en AI-drevet verdivurderingsplattform der brukere chatter med LLM-agenter for verdivurdering av bolig og bil, deployet på Google Cloud Run.
+* Forsker på kontekstbevaring i flertrinns LLM-samtaler for juridisk sakshåndtering hos Bahr AS i forbindelse med masteroppgaven — bygger en agent som opprettholder strukturert sakstilstand over lengre samtaler, med RAG mot norsk lovverk, automatisert dokumentanalyse og multi-LLM-støtte. Evaluerer om eksplisitt tilstandshåndtering forbedrer nøyaktighet sammenlignet med baseline-modeller etter hvert som samtalelengden øker.
+* Bygde en CNN (objektdeteksjonsmodell) for identifisering av Rumex i dronebilder. Jobbet også med segmentering og klassiske bildebehandlingsteknikker.
+* Bygde et interaktivt dashboard som analyserer norsk strømproduksjon/-forbruk mot historiske værdata, med tidsseriedekomponering, forecasting og outlier-deteksjon.
+* Utviklet en end-to-end ETL-pipeline som scraper Finn.no, beriker med offentlige registerdata (Geonorge, Statens Vegvesen, Kartverket) og trent flere maskinlæringsmodeller på GCP.
+* Bygde AI-valuation — en AI-drevet verdivurderingsplattform der brukere chatter med LLM-agenter for verdivurdering av bolig og bil, deployet på Google Cloud Run.
 * Bygde en oljesølsimulator med mesh-grid-modellering og auto-genererte MP4-visualiseringer.
 * Statistisk teori (bayesiansk/frekventistisk, MLE, multivariate fordelinger), optimering (gradientnedstigning, Newtons metode, KKT, simpleksmetoden), dyplæring og algoritmedesign.
 
-### Prosjektleder | Newsec
-**Aug 2020 - Jul 2024**
-* Ledet byggeprosjekter og leietakertilpasninger verdt flere titalls millioner kroner fra start til ferdigstillelse, og koordinerte 20-30 aktører på tvers av rådgivende ingeniører, entreprenører, arkitekter, oppdragsgivere og kommunale myndigheter. Porteføljen inkluderte boligutbygginger, rehabiliteringer og utvikling av offentlige utearealer i sentrale Oslo.
-* Leverte prosjekter for institusjonelle eiendomseiere og internasjonale investorer — blant annet OBOS, Pareto Securities, Clarkson Platou, SBB Norden og Selvaag — både nyutvikling og kommersielle leietakertilpasninger.
-* Ledet teknisk due diligence ved eiendomstransaksjoner på tvers av kontor, handel, industri og bolig, og utarbeidet helhetlige vurderinger for både kjøper- og selgersiden.
-* Håndterte hele anbudsprosessen — utarbeidelse av konkurransegrunnlag, tilbudsgjennomgang, kontraktsforhandling og kontraktsforvaltning etter NS8407/NS8402 — inkludert offentlige anskaffelser og myndighetssøknader.
-* Ansvarlig for prosjektøkonomisk rapportering og etterlevelse av regelverk og bærekraftsstandarder, herunder BREEAM.
+### Årsstudium i Økonomi og Ledelse | Handelshøyskolen BI
+**Aug 2021 – Juni 2022 (Fullført parallelt med full stilling i Newsec)**
+* Kjernefag innen bedriftsøkonomi, finansregnskap og markedsføring.
 
 ### Ingeniør | NTNU
 **Aug 2017 - Jun 2020**
 * B.Sc. i konstruksjonsteknikk med fokus på prosjektledelse, konstruksjonsdesign og regelverk.
-* Gjennomførte mulighetsstudie for utvikling av Mustad Næringspark som del av et eiendomsutviklingsfag.
-* Bacheloroppgave om erstatning av bæresystem i stål med tre — analyse av miljøpåvirkning, kostnad og konstruktiv ytelse.
 * Grunnlag i prosjektplanlegging, kontraktshåndtering og offentlige godkjenningsprosesser.
 
-### Annet
-* Omregulerte og reposisjonerte på egenhånd en kombinasjonseiendom i Hamar fra kontor/bolig til 10 leiligheter, og styrte hele reguleringsprosessen før prosjektet ble solgt med rammetillatelse til Odin Gruppen AS.
-* Har fortsatt å ta rådgivnings- og prosjektledelsesoppdrag fra tidligere kunder på timebasis ved siden av studiene.
-* Økonomifag ved Handelshøyskolen BI (2021-2022).
+## 💼 ERFARING
+### Prosjektleder | Newsec
+**Aug 2020 – Okt 2024**
+- Ledet multimillion-NOK bygge- og leietakertilpasningsprosjekter end-to-end, koordinerte 20–30 aktører (ingeniører, entreprenører, arkitekter, kunder, myndigheter) i boligkonverteringer, rehabiliteringer og offentlige prosjekter i sentrale Oslo.
+- Leverte prosjekter for institusjonelle og internasjonale kunder (OBOS, Pareto Securities, Clarksons Platou, SBB Norden, Selvaag) – nybygg og tilpasninger.
+- Utførte teknisk due diligence på kontor-, handel-, industri- og boligtransaksjoner, med integrerte vurderinger for kjøper- og selgerside.
+- Håndterte full anbudsprosess: konkurransegrunnlag, tilbudsevaluering, kontraktsforhandling/forvaltning (NS 8407/8402), inkl. offentlige prosedyrer og søknader.
+- Ansvar for prosjektøkonomi, rapportering og compliance med regelverk + BREEAM-bærekraft.
+
+### Prosjektleder | Selvstendig konsulent
+**Okt 2024 - Nå (parallelt med masterstudiene)**
+* Bistår tidligere kunder og kontakter fra eiendomsbransjen med teknisk rådgivning og ledelse av utbyggingsprosjekter.
+* Oppdragene er basert på direkte forespørsler fra tidligere samarbeidspartnere etter endt arbeidsforhold i Newsec.
 
 ## 🛠️ Ferdigheter
-
 <table border="0">
   <tr>
     <td valign="top"><strong>Maskinlæring</strong><br>
@@ -71,7 +71,6 @@
       • Streamlit<br>
       • Dashboards (Power BI, Looker)<br>
       • Figma<br>
-      • Building SDK<br><br>
       <strong>Profesjonelle ferdigheter</strong><br>
       • Prosjektledelse<br>
       • Kunderelasjoner<br>
@@ -80,13 +79,6 @@
     </td>
   </tr>
 </table>
-
-## 🚀 Prosjekter
-- **[Agentic Legal AI (Masteroppgave)](https://github.com/sigvardbratlie/master-thesis)**: LLM/NLP-prosjekt for juridisk dokumentbehandling.
-- **[Vær- og strømdashboard](https://github.com/sigvardbratlie/ind320-dashboard)**: Dataanalyse- og EDA-dashboard.
-- **[Rumex-deteksjonsmodell](https://github.com/sigvardbratlie/rumex-detection)**: Computer vision-modell med YOLO.
-- **[Market Data ETL](https://github.com/sigvardbratlie/sibr-market-data-etl)**: Datahenting og scraping-pipeline.
-- **[SIBR Market](https://github.com/sigvardbratlie/sibr-market)**: UI/LLM-basert markedsplattform.
 
 ## 📞 Kontaktinfo
 **Mobil:** +47 938 49 732  
